@@ -1,0 +1,12 @@
+## .NET
+bin/
+obj/
+*.user
+
+## IDE
+.vs/
+.idea/
+*.suo
+
+## Logs
+*.log
